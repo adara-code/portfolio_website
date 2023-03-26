@@ -1,3 +1,27 @@
-.row {
-    background-image: url('../img/bg_img.jpg');
+* {
+    margin: 0;
+    padding: 0;
 }
+
+#intro {
+    background-image: url('../img/r_mouse_watch_prism.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+
+.role p {
+    font-family: 'Courier New', Courier, monospace;
+    color: #E97451;
+}
+
+
+/* E97451 orangish */
+/* F6ADC6 naedeshiko first choice */
+/* DE3163 pink - second choice - same as third choice */
+/* E3256B - third choice (I like this - it's conventional */
+/* C54B8C - contender - not shouting *** */
+/* FA86C4 - taffy is also nice ***** */
+/* E63E62 - paradise pink - also nice */
+/* FE4164 - fuschia also nice */
