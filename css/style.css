@@ -4,7 +4,7 @@
 }
 
 #intro {
-    background-image: url('../img/r_mouse_watch_prism.jpg');
+    background-image: linear-gradient(rgba(28, 146, 210, 0),rgba(91, 135, 229, 0)), url('../img/r_mouse_watch_prism.jpg');
     min-height: 100vh;
     background-size: cover;
     background-position: center;
@@ -13,13 +13,32 @@
 
 .role p {
     font-family: 'Courier New', Courier, monospace;
-    color: #E97451;
+    color: #DE3163;
+}
+
+.skillbtn, .projectbtn {
+    text-decoration: none;
+     transition: background-color, 0.5s;
+    /*background-color: transparent;
+    padding: 10px 35px;
+    border-radius: 8px;
+    
+    cursor: pointer;
+   
+    margin-left: 30px; */
+    
+}
+
+.skillbtn:hover, .projectbtn:hover {
+    border: 1px solid #DE3163;
+    background-color: #DE3163;
+    color: whitesmoke;
 }
 
 
 /* E97451 orangish */
 /* F6ADC6 naedeshiko first choice */
-/* DE3163 pink - second choice - same as third choice */
+/* DE3163 pink - second choice - same as third choice $$$$$ */
 /* E3256B - third choice (I like this - it's conventional */
 /* C54B8C - contender - not shouting *** */
 /* FA86C4 - taffy is also nice ***** */
