@@ -4,7 +4,7 @@
 }
 
 #intro {
-    background-image: linear-gradient(rgba(28, 146, 210, 0),rgba(91, 135, 229, 0)), url('../img/r_mouse_watch_prism.jpg');
+    background-image: linear-gradient(rgba(28, 146, 210, 0),rgba(91, 135, 229, 0)), url('../img/r_keyboard_pen_notebook.jpg');
     min-height: 100vh;
     background-size: cover;
     background-position: center;
@@ -34,6 +34,13 @@
     background-color: #DE3163;
     color: whitesmoke;
 }
+
+.more-btn {
+    margin-top: 150px;
+}
+
+
+
 
 
 /* E97451 orangish */
