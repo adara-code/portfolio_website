@@ -11,6 +11,10 @@
     background-repeat: no-repeat; 
 }
 
+/* .introDiv {
+    margin-top: 150px;
+} */
+
 .role p {
     font-family: 'Courier New', Courier, monospace;
     color: #DE3163;
@@ -46,7 +50,6 @@
 .my-pic {
     background-image: url("../img/r_mouse_watch_prism.jpg");
     min-height: 100vh;
-    width: 100vh;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -57,9 +60,11 @@
     
 }
 
-#highlightedSkills {
+#highlightedSkills, #projectSection h6 {
     color: #DE3163;
 }
+
+
 
 
 
