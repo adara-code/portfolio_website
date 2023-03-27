@@ -39,6 +39,28 @@
     margin-top: 150px;
 }
 
+.aboutHeading {
+    color: #DE3163;
+}
+
+.my-pic {
+    background-image: url("../img/r_mouse_watch_prism.jpg");
+    min-height: 100vh;
+    width: 100vh;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.aboutRow {
+    background-color: #080808;
+    
+}
+
+#highlightedSkills {
+    color: #DE3163;
+}
+
 
 
 
@@ -50,4 +72,4 @@
 /* C54B8C - contender - not shouting *** */
 /* FA86C4 - taffy is also nice ***** */
 /* E63E62 - paradise pink - also nice */
-/* FE4164 - fuschia also nice */
+/* FE4164 - fuschia also nice  */
